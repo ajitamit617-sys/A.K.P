@@ -1,0 +1,6 @@
+{
+  "name": "Harmonia - Music Theory & Visualizer Studio",
+  "description": "Comprehensive interactive music theory visualization platform for scales, chords, modes, fretboards, piano, Circle of Fifths, sheet notation, and AI music tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
